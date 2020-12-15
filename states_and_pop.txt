@@ -1,0 +1,10 @@
+Uttar Pradesh 199,812,341
+Maharashtra 112,374,333
+Bihar 104,099,452
+West Bengal 91,276,115
+Madhya Pradesh 72,626,809
+Tamil Nadu 72,147,030
+Rajasthan 68,548,437
+Karnataka 61,095,297
+Gujarat 60,439,692
+Andhra Pradesh 49,577,103
